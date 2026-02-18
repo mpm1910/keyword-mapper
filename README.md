@@ -1,6 +1,6 @@
 # 🗺️ Keyword Mapper — Claude Code Agent
 
-> Autonomous SEO keyword research & URL mapping agent for [Claude Code](https://docs.anthropic.com/en/docs/agents). Fetches your sitemap, queries DataForSEO, analyzes competitors, and produces a complete keyword-to-URL map with anti-cannibalization — all in one prompt.
+> Autonomous SEO keyword research & URL mapping agent for [Claude Code](https://code.claude.com/docs/en/overview). Fetches your sitemap, queries DataForSEO, analyzes competitors, and produces a complete keyword-to-URL map with anti-cannibalization — all in one prompt.
 
 ---
 
@@ -27,7 +27,7 @@
 
 ### Prerequisites
 
-- [Claude Code](https://docs.anthropic.com/en/docs/agents) (Claude's CLI agent)
+- [Claude Code](https://code.claude.com/docs/en/overview) (Claude's CLI agent)
 - **DataForSEO** MCP server configured (`dfs-mcp`)
 - **crawl4ai** MCP server (optional, for JS-rendered sites)
 
